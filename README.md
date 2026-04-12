@@ -124,6 +124,11 @@ Revision/Addition Description and Link:
 
 # Jessica C
 Initial Description and Link:
+Analysis on global grocery price inflation from Oct 2025 to Mar 2026, using TidyVerse.  Packages used include ggplot and dyplr.
+
+Data Set: breakfast basket.csv
+Vignette: Global_Groc_Inflation_TidyVCREATE.qmd (https://github.com/JessChen0/SPRING2026TIDYVERSE/blob/main/Global_Groc_Inflation_TidyVCREATE.qmd)
+Source: Kaggle (https://www.kaggle.com/datasets/waddahali/global-grocery-inflation-20252026/data?select=breakfast+basket.csv)
 
 Revision/Addition Description and Link:
 
