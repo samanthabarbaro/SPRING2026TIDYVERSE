@@ -317,5 +317,14 @@ Revision/Addition Description and Link:
 # ZIneb T
 Initial Description and Link:
 
+Analyzing NYC Crime Patterns Using TidyVerse
+
+This vignette uses NYC crime complaint data from 2023 to demonstrate TidyVerse tools for cleaning, summarizing and visualizing data. The analysis focuses on the most common crime types, crime distribution across boroughs and monthly crime trends.
+
+Link: Dataset: NYC Open Data – NYPD Complaint Data Historic  
+https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i
+
+File: data607_tidyverse.html, data607_tidyverse.qmd
+
 Revision/Addition Description and Link:
 main
